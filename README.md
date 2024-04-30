@@ -1,1 +1,2 @@
-# winsockclient
+# winsockclient 
+all by myself
